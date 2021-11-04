@@ -6,7 +6,7 @@ Contains the following components:
 1. Home
 2. Header / Navbar
 3. Footer
-4. Simple Conversions
+4. Simple Conversions / Quick Conversions
   a. Height (feet and inches to/from centimeters) (to tell your height)
   b. Weight (pounds to/from kilograms) (to tell your weight)
   c. Speed (miles per hour to/from kilometers per hour) (for driving)
@@ -15,7 +15,11 @@ Contains the following components:
 5. Complex Conversions (non-currency)
   a. Time (time around the world) (keep quick track of home time and local time to know when to call home and such)
   b. Weather (weather around the world) (know the weather where you are as well as where you are going)
+    I. Daily / Weekly Forecast
+   II. Storm-tracker
 6. Currency Conversions
   a. Current Exchange rates
   b. Compare currency to Crypto currencies
   c. Compare currency to Precious Metals
+7. Error Page
+
