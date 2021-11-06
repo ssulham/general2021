@@ -4,3 +4,4 @@ Janken Masters
 [Personal Page] - Design your own homepage and then make a way for others to do the same, solely using the UI.
 [Best Martial Arts Website] - Design the website that UP would want to use and recommend for all Martial Arts Masters everywhere.
 
+The name of the group of tech websites I create: Tech Colossus
