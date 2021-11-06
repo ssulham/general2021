@@ -43,3 +43,20 @@ Functions:
   c. Base currency vs. Gold / Silver / Platinum
 7. Handle user errors in navigating to the right pages.
 
+Services:
+1. Connect to Java for methods.
+  a. GET methods.
+  b. POST methods.
+  c. PUT methods.
+  d. DELETE methods.
+The actual functions themselves will be handled by Java, so as far as Angular is concerned, I just need to make the connections
+and then we're good.
+
+Testing:
+1. Components load when necessary.
+2. Elements of components, such as fields, render properly.
+3. Connection with Java is made.
+4. Functions work properly.
+5. Methods work properly.
+6. e2e testing (later).
+
