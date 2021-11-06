@@ -23,3 +23,23 @@ Contains the following components:
   c. Compare currency to Precious Metals
 7. Error Page
 
+Functions:
+1. Homepage to welcome users and connect them to all of the other features of the app.
+2. Navbar to connect all of the features together and provide users to navigate amongst them.
+3. Footer to contain some necessary copyright info and the like.
+4. Forms in which users can:
+  a. Input the number they want calculated.
+  b. Select the desired to / from units
+  c. See the conversion in real time.
+    1. Should update dynamically as new numbers are entered / edited.
+  d. Save certain settings for any conversions that need to be done or referenced often.
+5. Find user's local time as well as times around the world.
+  a. Select hometown and cities of interest and get local time and weather for each.
+  b. Receive alerts for storms coming to any of your chosen locations of interest.
+  c. Set alarms by location.
+6. Fetch current exchange rates for:
+  a. Base currency vs. Target currency
+  b. Base currency vs. Cryptocurrency
+  c. Base currency vs. Gold / Silver / Platinum
+7. Handle user errors in navigating to the right pages.
+
