@@ -41,3 +41,20 @@ Access to resources from Ultimate Success Academy (once it's ready)
 
 Games
 
+Components
+
+  Home 
+  Header / Navbar
+  Footer
+  Login
+  Bio 
+  Logs 
+  Biosphere
+
+Functions
+  
+  Login / Logout
+
+Services 
+  
+
