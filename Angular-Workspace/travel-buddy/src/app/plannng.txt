@@ -6,18 +6,28 @@ Contains the following components:
 1. Home
 2. Header / Navbar
 3. Footer
-4. Simple Conversions / Quick Conversions
+4. Quick Conversions
   a. Height (feet and inches to/from centimeters) (to tell your height)
   b. Weight (pounds to/from kilograms) (to tell your weight)
   c. Speed (miles per hour to/from kilometers per hour) (for driving)
   d. Mass (gallons to/from liters) (for gas / gas prices)
   e. Temp (Farenheit to/from Celcius) (to know how to dress)
-5. Complex Conversions (non-currency)
+5. Trip Planner
   a. Time (time around the world) (keep quick track of home time and local time to know when to call home and such)
   b. Weather (weather around the world) (know the weather where you are as well as where you are going)
     I. Daily / Weekly Forecast
    II. Storm-tracker
-6. Currency Conversions
+  c. World Map
+    I. Display Pop-up Card with Links and Details about Country in Question as you select it
+      i. Name - Link to History and other details about the country
+     ii. Climate - Link to Weather (Seasonal Averages, Weekly Forecast, Storm Tracker)
+    iii. Language - Link to language study aides, as well as fun facts about that language.
+     iv. Time Zone - Indicates the current time in that location.
+      v. Top Destinations - Link to articles indicating fun tourist spots to consider.
+     vi. Cost Calculator - Estimates potential cost of trip based on dates chosen, duration of stay, and average costs of 
+         travel, hotels, food, etc.
+    
+6. Currency Exchange 
   a. Current Exchange rates
   b. Compare currency to Crypto currencies
   c. Compare currency to Precious Metals
