@@ -33,6 +33,22 @@ Contains the following components:
   c. Compare currency to Precious Metals
 7. Error Page
 
+Models / Beans
+1. Height
+2. Weight
+3. Speed
+4. Mass
+5. Temp
+6. Currency
+
+Beans Breakdown
+1. Initial Value: number
+2. Initial Units: string
+3. Final Value: number
+4. Final Units: string
+
+Now, would it be best to create a bean for each type of value, or is there a way to make one that applies to all six...
+
 Functions:
 1. Homepage to welcome users and connect them to all of the other features of the app.
 2. Navbar to connect all of the features together and provide users to navigate amongst them.
