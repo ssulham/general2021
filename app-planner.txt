@@ -18,3 +18,48 @@ Tech Colossus
   Biosphere
   [Health / Martial Arts / Fitness]
   Ultimate Success Academy
+
+Global Warming Debunker (True name pending...)
+  Collects weather data for each day for select city/cities.
+  Logs the weather data for each day, including the day's high, low, and average temp.
+  Calculates average temperature for the month, the season, and the year.
+  Charts and compares the average temperatures in each subsequent year, decade, and century.
+
+  Every year the results will get better and better.  Before long, I will have evidence that what the climate changers have 
+  been claiming is demonstrably false.  Or, I will find that they were right all along.  Either way, I win, because I am on the
+  side of truth.
+
+True Science
+  This could be a super set of the health site and the climate research site.  It could include a couple of other things, too.
+
+  What is true science?
+    Science vs. Philosophy vs. Groupthink
+    The Scientific Method
+    The True Scientist vs. The False Scientist
+    True Science (Science) vs. False Science ("The Science")
+
+True History
+  If I do True Science and that ends up working out, I can try out doing True History, too.
+  Comprehensive History of the World, including Scriptural truths, that put all things into perspective.
+  Go Broad and then get technical
+    Start with a particular time period, covering what was happening in the world at large, and then zero in to specific 
+    accounts focused on certain groups, if we have them.
+    Because it's a website instead of a book, it can be updated continuously and arranged in a number of creative ways.
+
+Travel Buddy
+  Focus on the conversions first, and then expand from there.
+  As this is an app/website, it can be updated continuously, and therefore does not have to be released in its perfect form 
+  right from the start.
+  My niche clients should still be those who are either living abroad or often travel abroad, as they are the ones who would 
+  need to make foreign conversions often enough to find an app like this worth downloading.
+
+  Something else to consider is an app especially for ALTs living in Japan.  
+    Additional useful features to consider:
+      Delayed notification for those out of the country: will not chime until a set local time for them.
+      Japanese Language Learning Resources
+      JET Prep Checklist
+        Starting as early as before the application process and leading right up to Departure
+        Can also extend to while they are there and even have a few things for after they return (if they return)
+      Budgeting tips and tools
+      English Class Planner
+        Helpful Tools and Tips for building a good lesson plan as well as keeping the best ones.
