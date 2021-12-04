@@ -76,4 +76,100 @@ Games
 
   The Tanuki, the Tortoise, and the Hare
   Janken Masters
-  
+
+
+Electoral University
+
+  Seeing that the Electoral College is meant to be a failsafe protecting the right to vote (one that ultimately failed, 
+  unfortunately), the Electoral University will be a superior version of that.  It will protect the integrity of the vote in more 
+  ways than one, and it will be run at the level of the people.
+
+  True Map
+    
+    Add accountability and visibility to the official representation of the electoral map by providing one of our own.  Users can 
+    register their status anonymously of who they voted for in each election, to be compared to the total number of registered 
+    voters, so after an election--and also before--we should be able to see how the country really voted.
+
+    Even if only conservatives and libertarians end up registering, this could still be a win as long as enough of them do so.  
+    Besides showing the percentages of the votes per district, county, state, and the country at large, I can also give the raw 
+    numbers, which can counter the voter suppression side of things, at least.  It does not prove that the hyper-inflated numbers 
+    of the Demonicrat are false, but it would indeed show that the ridiculously repressed numbers of the Republican are false.  If 
+    for example you have 120 million registered republicans all indicating that they voted for the true president, but the official 
+    records are indicating less than 80 million, that would sound the warning bell for us, at least.  It may not get official action
+    but it will at least serve as an indicator for all with eyes to see and ears to hear.
+
+  Eductation
+
+    Defining the Political Spectrum
+    History of each Political Party
+    History of Past Civil Servants and their Policies in Action
+
+  Alerts
+
+    If you see something, say something.  If you witness voter fraud in the next election, tell your story here.  We will have 
+    recorded in a public blockchain network, all of the stories in one place for all to read, for all to know, and for all to 
+    remember.
+
+  Action Steps
+
+    A list of peaceful action steps that can be taken in the meantime, while we are waiting to get our country back.  Also a set 
+    plan to defend yourself against "Woke Traps" such as the infamous day that is remembered as infamous for all of the wrong 
+    reasons.  How to avoid being setup, how to rise above evil, how to let your true self shine through.
+
+  Litmus Tests
+
+    What party most fits you?
+    Where on the political spectrum do you lie?
+    Should you run for office?  If not, what are some great alternatives?
+
+  More 
+
+    Bias Immunization
+
+      How to recognize Bias
+        
+        The battle for overcoming bias is already won in the moment you recognize that it is there.
+        To overcome bias, first you recognize it, and second you consciously reject it.
+      
+      How to recognize your own bias, and how best to keep it under control
+
+    Debate vs. Discussion
+    Science vs. Anti-Science 
+
+Travel Buddy Revisited
+
+  Let's take a closer look at the original concept of the conversion calculator.
+  Let's start with just the regular calculator first, and then expand it from there.
+
+  Calculator 
+
+    Addition
+    Subtraction
+    Multiplication
+    Division
+    Exponents
+    Roots
+    Conversions 
+
+      Fractions
+      Decimals
+      Percentages
+
+        Calculating Tip (15%, 20%, etc.)
+        Calculating Grades
+      
+      Mean
+      Median
+      Mode
+      Range
+
+      Units 
+
+        Weight
+        Height / Length
+        Speed
+        Area 
+        Volume
+        Temperature 
+        Time Zones
+        Currency
